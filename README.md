@@ -13,6 +13,8 @@ make it executable
 
 The script searches for the DCIM Path on Phone SD-Card and copies the images.
 
+Then it ask for a folder to save images.
+
 
 ### Usage
 > cd /path/to/script
