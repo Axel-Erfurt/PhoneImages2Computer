@@ -11,7 +11,7 @@ make it executable
 
 > chmod +x /path/to/script/copyPhoneImages.sh
 
-The script searches for the DCIM Path on Phone SD-Card and copies the images.
+The script searches for the DCIM Path on Phone SD-Card.
 
 Then it ask for a folder to save images.
 
